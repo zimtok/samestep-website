@@ -1,0 +1,22 @@
+@import "all.css";
+
+.svg {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 300px;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background-color: var(--color-text-dark);
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+}
